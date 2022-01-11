@@ -1,0 +1,12 @@
+.central_vertial{
+    display: flex;
+    align-items: center;
+    padding: 20px 10px 20px 10px;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.margin_left_0{
+    margin-right: 0 !important;
+    padding-right: 0 !important;
+}

@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.96f39856.css",
+    "main.js": "/static/js/main.53a0af13.js",
+    "static/media/fondo.jpg": "/static/media/fondo.6b42c038b3cefef832dd.jpg",
+    "static/media/2.pdf": "/static/media/2.7b51f85bac1ab37540f6.pdf",
+    "static/media/4.pdf": "/static/media/4.fa1b644b65bf5185bae8.pdf",
+    "static/media/5.pdf": "/static/media/5.1565a5cc0904c975a0f3.pdf",
+    "static/media/9.pdf": "/static/media/9.63e391ae968f01fe00c5.pdf",
+    "static/media/8.pdf": "/static/media/8.8fdafe7b6067af7ae194.pdf",
+    "static/media/7.pdf": "/static/media/7.543bf77ef1f9de30bdc7.pdf",
+    "static/media/10.pdf": "/static/media/10.c4414a436e17b639b7b5.pdf",
+    "static/media/6.pdf": "/static/media/6.22e850f40a858e09881b.pdf",
+    "static/media/1.png": "/static/media/1.cd496b5e33ba05bb6e69.png",
+    "static/media/1.pdf": "/static/media/1.09dfb4b5fba947fe1544.pdf",
+    "static/media/3.pdf": "/static/media/3.04c24b34051432df715e.pdf",
+    "static/media/5.png": "/static/media/5.7f3457e66dcf788a5f43.png",
+    "static/media/4.png": "/static/media/4.e0755a3ca0d780a72697.png",
+    "static/media/10.png": "/static/media/10.f5bf260dd676abf24fc5.png",
+    "static/media/8.png": "/static/media/8.9e53d7f849448ce31f4e.png",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.38c4d2499557ae0379fd.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.2b56e79ae5013246de29.woff2",
+    "static/media/2.png": "/static/media/2.a8c1f95eb5088fdf9270.png",
+    "static/media/9.png": "/static/media/9.9a42738ca530adc0d065.png",
+    "static/media/3.png": "/static/media/3.4749c54df0195dee8cac.png",
+    "static/media/7.png": "/static/media/7.adaa74d73124c08e3f33.png",
+    "static/media/6.png": "/static/media/6.c17e2a73e8a1112cc726.png",
+    "index.html": "/index.html",
+    "main.96f39856.css.map": "/static/css/main.96f39856.css.map",
+    "main.53a0af13.js.map": "/static/js/main.53a0af13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96f39856.css",
+    "static/js/main.53a0af13.js"
+  ]
+}

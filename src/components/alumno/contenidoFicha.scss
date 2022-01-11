@@ -1,0 +1,89 @@
+.activado{
+    background: white;
+    color: black;
+    border-bottom: solid 4px #30cda0;
+    text-decoration: none;
+}
+
+.desactivado{
+    background: #f8f8f9;
+    color: #afb1ba;
+    border-bottom: none;
+    text-decoration: none;
+}
+
+.desactivado :hover{
+    background: #f3f38bf6;
+    color: #afb1ba;
+    border-bottom: solid 4px rgba(70, 165, 61, 0.63);
+    text-decoration: none;
+}
+
+.filaOferta{
+    border: solid 2px #f6f6f7;
+    background: #f8f8f9;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 0.8rem;
+    margin-top: 10px;
+}
+
+.colOferta{
+    display: flex !important;
+    align-items: center;
+}
+
+.fondo_azul{
+    width:min-content;
+    background:#3684fa;
+    margin:0px 5px 0px 0px;
+    color:white;
+    padding:0px 5px 0px 5px;
+    border-radius: 10px;
+    font-size:15px;
+    min-width: 128px;
+}
+
+.fondo_celeste{
+    width:min-content;
+    background:#3fcbf8;
+    margin:0px 5px 0px 0px;
+    color:white;
+    padding:0px 5px 0px 5px;
+    border-radius: 10px;
+    font-size:15px;
+    min-width: 118px;
+}
+
+.fondo_rojo{
+    width:min-content;
+    background:#d04566;
+    margin:0px 5px 0px 0px;
+    color:white;
+    padding:0px 5px 0px 5px;
+    border-radius: 10px;
+    font-size:15px;
+}
+
+.fondo_verde{
+    width:min-content;
+    background:#32d4a4;
+    margin:0px 5px 0px 0px;
+    color:white;
+    padding:0px 5px 0px 5px;
+    border-radius: 10px;
+    font-size:15px;
+}
+
+.tituloOferta{
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+
+.nombreEmpresa{
+    color:#abadb6;
+}
+
+.fechaOferta{
+    font-size: 0.9rem;
+}

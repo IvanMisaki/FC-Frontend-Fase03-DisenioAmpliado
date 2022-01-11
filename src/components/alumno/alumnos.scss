@@ -1,0 +1,170 @@
+body{
+    background-color: #f8f8f9;
+}
+
+.textLeft{
+    text-align: left;
+}
+
+.textRight{
+    text-align: right;
+}
+
+
+
+* {
+    margin:0px;
+    padding:0px;
+}
+
+#header {
+    margin:auto;
+    width:500px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+ul, ol {
+    list-style:none;
+    padding-left:0;
+    margin-bottom: 0rem;
+}
+
+.nav > li {
+    float:left;
+}
+
+.nav li a {
+    /*background-color:#000;
+    color:#fff;*/
+    text-decoration:none;
+    padding:10px 12px;
+    display:block;
+}
+
+.nav ul li a:hover {
+    background-color:#b3acac2f;
+}
+
+.nav li ul {
+    display:none;
+    position:absolute;
+    min-width:140px;
+}
+
+.nav li:hover > ul {
+    display:block;
+}
+
+.nav li ul li {
+    position:relative;
+}
+
+.nav li ul li ul {
+    right:-140px;
+    top:0px;
+}
+
+.mi_verde{
+    color:#32d4a4;
+}
+
+.mi_verde_bold{
+    color:#32d4a4;
+    font-weight: bold;
+}
+
+.mi_verde_back{
+    background:#32d4a4 !important;
+}
+
+.mi_verde_back:hover{
+    background:#15a076 !important;
+}
+
+ul li a :hover {
+    background-color: red;;
+}
+
+
+
+/*Contenido*/
+table tr th {
+cursor: pointer;
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
+
+.sorting {
+background-color: #D4D4D4;
+}
+
+.asc:after {
+content: ' ↑';
+}
+
+.desc:after {
+content: " ↓";
+}
+
+.sombrear:hover{
+    background-color: #cdebb1;
+}
+
+
+
+
+
+.header{
+    width: fit-content; float: right;
+}
+
+.ul{
+    background-color: white; border-radius: 20px 20px 20px 20px; width: 190px;
+}
+
+.ul_li_div{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.ul_li_div_div{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    background-color: black;
+    border-radius: 20px 20px 20px 20px;
+    height: 40px;
+    width: 40px;
+}
+
+.ul_li_div_div_a{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    width: 120px;
+    color: black;
+}
+
+.ul_1{
+    background-color: white; margin-left: 15px;
+}
+
+.header0 {
+    margin:auto;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+/*FASE 03*/
+.menu_hover :hover{
+    background-color: #348069;
+}

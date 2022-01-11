@@ -1,0 +1,76 @@
+.contenidoGrid{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 30px);
+}
+
+.miParrafo{
+    background: blue;;
+}
+
+.mi_label{
+    text-align: left;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.mi_verde{
+    color:#32d4a4;
+}
+
+.mi_verde_bold{
+    color:#32d4a4;
+    font-weight: bold;
+}
+
+.mi_verde_back{
+    background:#32d4a4 !important;
+}
+
+.mi_verde_back:hover{
+    background:#15a076 !important;
+}
+
+.mi_left{
+    text-align: left;
+}
+
+.mi_rem12{
+    font-size: 1.2rem;
+}
+
+.mi_rem11{
+    font-size: 1.1rem;
+}
+
+.mi_rem10{
+    font-size: 1.0rem;
+}
+
+.mi_rem9{
+    font-size: 0.9rem;
+}
+
+.mi_rem8{
+    font-size: 0.8rem;
+}
+
+.mi_p_sub{
+    margin: 0;
+    padding: 0;
+    font-size: 0.8rem;
+    text-align: left;
+    color: gray;;
+}
+
+.centrar_horizontal{
+    margin: 0 auto;
+}
+
+
+.central_vertial{
+    display: flex;
+    align-items: center;
+    padding: 20px 10px 20px 10px;
+    justify-content: center;
+    min-height: 100vh;
+}
